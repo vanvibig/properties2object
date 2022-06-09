@@ -1,4 +1,4 @@
-package com.example.properties2object;
+package com.kv.properties2object;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
